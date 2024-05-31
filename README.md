@@ -1,2 +1,2 @@
 # RJ
-I AM BLOGGER EXPERT
+I AM Developer
